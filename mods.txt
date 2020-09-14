@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [subprocess, pynput]
+=======
+[subprocess, pynput]
+>>>>>>> 776d370ee760b62a553906de12b28646f104b74e
