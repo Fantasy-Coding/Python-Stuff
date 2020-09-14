@@ -1,0 +1,8 @@
+type(): Types a Text like a real Human. example: 'type("Hello, my name is Fantasy.")', output: Hello, my name is Fantasy
+
+percent(): Calculates percent. example: 'x = percent(27, 200)', output: x = 54
+
+paypal_gen_link(): Generates an PayPal Link. example: 'Link = paypal_gen_link("iamgroot", "gmail.com", "1_Lollipop", "1.50", "EUR")', output: Link = "https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=iamgroot%40gmail.com&item_name=1_Lollipop&amount=1.50&currency_code=EUR"
+#remember! Don't use Space only use _ ! The example link wont work because The E-Mail doesn't exist.
+
+new(): Here you can add your own function! :-)
