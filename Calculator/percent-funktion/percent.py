@@ -1,4 +1,4 @@
-def percent(percent, from):
-  x = from / 100
+def percent(percent, fromnum):
+  x = fromnum / 100
   y = x*percent
   return y

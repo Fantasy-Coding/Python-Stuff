@@ -1,4 +1,5 @@
 import sys
+import time
 def type(message):
 	print(" ")
 	for char in message:

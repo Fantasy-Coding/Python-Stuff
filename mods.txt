@@ -1,0 +1,1 @@
+[subprocess, pynput] #things like pynput, subprocess
